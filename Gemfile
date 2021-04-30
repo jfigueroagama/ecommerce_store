@@ -36,7 +36,7 @@ gem 'bootstrap-sass', '3.4.1'
 gem 'redis', '>= 3.2.0'
 gem 'jquery-rails'
 gem 'braintree', '~> 2.33.1'
-gem 'gon', '~> 6.2.0'
+gem 'gon', '~> 6.4.0'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
